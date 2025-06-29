@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 ### 📈 GitHub Stats:
 
 <p align="left">
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+-->
 ### 📝 Latest Projects:
 
 - 🎯 AI-Powered Interview Preparation Platform  
