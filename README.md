@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&locale=en" alt="Dipteek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dipteek&show_icons=true&theme=github_dark&locale=en" alt="Dipteek's GitHub Stats" />
 </p>
 
 ---
