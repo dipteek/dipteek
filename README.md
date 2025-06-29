@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 🎯 AI-Powered Interview Preparation Platform  
 - 📱 Instagram Clone (Flutter + Firebase)  
 - 🌐 E-Commerce Website (Laravel + Next.js)  
-- 📄 Short Runner 
+- 📄 Short Runner (C#)
 
 ---
 
