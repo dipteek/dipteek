@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 -->
 ### 📝 Latest Projects:
 
-- 🎯 AI-Powered Interview Preparation Platform  
+- 🎯 Development of AI-Powered Interview Prep for Candidates   
 - 📱 Instagram Clone (Flutter + Firebase)  
 - 🌐 E-Commerce Website (Laravel + Next.js)  
 - 📄 Short Runner (C#)
