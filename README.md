@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Profile Picture" style="border-radius: 50%" />
 </p>
-
+<h3>a href="https://github.com/teamuniquework" target="_blank">Other Github Account</a></h3>
 ---
 
 ### 🌐 Connect with Me:
