@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3><a href="https://github.com/teamuniquework" target="_blank">Other Github Account</a></h3>
 ---
 
-### 🌐 Connect with Me:
+###  Connect with Me:
 <p align="left">
   <a href="mailto:darshandipjain23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/dipteek-maidawat-b0870427a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Languages & Tools:
+###  Languages & Tools:
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
@@ -59,10 +59,22 @@ Here are some ideas to get you started:
 
 ### 📝 Latest Projects:
 
-- 🎯 Development of AI-Powered Interview Prep for Candidates   
-- 📱 Instagram Clone (Flutter + Firebase)  
-- 🌐 E-Commerce Website (Laravel + Next.js)  
-- 📄 Short Runner (C#)
+-  **Development of AI-Powered Interview Prep for Candidates**  
+  *Description:* A platform that helps candidates practice interviews with AI-driven feedback, facial emotion analysis, and resume-based question generation.  
+  *Tech Stack:* Next.js 14, Django REST Framework, Gemini API, Socket.IO  
+
+-  **Instagram Clone**  
+  *Description:* A social media app inspired by Instagram with features like authentication, posting, likes, and comments.  
+  *Tech Stack:* Flutter, Firebase (Auth, Firestore, Storage)  
+
+-  **E-Commerce Website**  
+  *Description:* A full-stack e-commerce platform with product management, cart, orders, and Google Pay integration for US-based users.  
+  *Tech Stack:* Laravel 11 (Backend), Next.js 14 (Frontend), MySQL  
+
+-  **Short Runner**  
+  *Description:* A hyper-casual 3D endless runner game with simple controls and engaging gameplay mechanics.  
+  *Tech Stack:* Unity, C#  
+
 
 ---
 
