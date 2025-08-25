@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=dipteek&show_icons=true&theme=github_dark&locale=en" alt="Dipteek's GitHub Stats" />
 </p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaglan13&layout=compact&theme=tokyonight)
 ---
 
 ### 📝 Latest Projects:
