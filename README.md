@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dipteek Maidawat</h1>
 <h3 align="center">👨‍💻 MCA Student | Passionate Developer | Lifelong Learner</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" alt="Profile Picture" style="border-radius: 50%" />
-</p>
+</p>-->
 <h3><a href="https://github.com/teamuniquework" target="_blank">Other Github Account</a></h3>
 ---
 
