@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 -  **Development of AI-Powered Interview Prep for Candidates**  
   *Description:* A platform that helps candidates practice interviews with AI-driven feedback, facial emotion analysis, and resume-based question generation.  
-  *Tech Stack:* Next.js 14, Django REST Framework, Gemini API, Socket.IO  
+  *Tech Stack:* Next.js 14, Django REST Framework, Gemini API 
 
 -  **Instagram Clone**  
   *Description:* A social media app inspired by Instagram with features like authentication, posting, likes, and comments.  
